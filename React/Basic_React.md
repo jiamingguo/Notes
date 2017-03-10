@@ -10,6 +10,8 @@
 ### How React works?
 - Basic idea is, webpack and babel will translate all the es6, JSX, react stuff into es5 (vanilla Javascript). Because Browser only understand es5. Then the browser can make it webpage
 
+![alt tag](/Resources/ModernJavaScriptTooling.png)
+
 ### JSX
 - Look like inside HTML, but a dialect of Javascript. 
 ### Render
