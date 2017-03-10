@@ -7,8 +7,8 @@
 - What are components or views? Like I said, they are something that produce HTML. They are a collection of JavaScript functions that create HTML. 
 - All the components will be nested together to build a complex web page
 
-### How React work?
-- Basic idea is, webpack and bebel will translate all the es6, JSX, react stuff into es5 (vanilla Javascript). Because Browser only understand es5. Then the browser can make it webpage
+### How React works?
+- Basic idea is, webpack and babel will translate all the es6, JSX, react stuff into es5 (vanilla Javascript). Because Browser only understand es5. Then the browser can make it webpage
 
 ### JSX
 - Look like inside HTML, but a dialect of Javascript. 
